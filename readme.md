@@ -29,7 +29,7 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
 
 [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
-If installing on windows. These instructions are important.  In order to correctly compile the code you need to install specfic dependencies.
+These instructions are important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.
 
 ## Mine announcements
 
