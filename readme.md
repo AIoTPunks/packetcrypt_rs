@@ -29,7 +29,7 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
 
 ## Mine announcements
 
-* `./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr pkt1q0p6s9yzf3506zlkzgrnctujya5zhng3haw96sl`
+* `./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7`
 
 For more information `./target/release/packetcrypt ann --help`
 
