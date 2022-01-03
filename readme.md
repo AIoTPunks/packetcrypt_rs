@@ -31,7 +31,7 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
 
 These instructions are important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.
 
-## Mine announcements
+## Mine Announcements
 
     ./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr       pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
     
