@@ -27,9 +27,7 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
     git checkout better-logging
     cargo build --release
 
-Here are helpful instructions for installing on windows: 
-
-    https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652
+[Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
 ## Mine announcements
 
