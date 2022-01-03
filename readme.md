@@ -27,27 +27,9 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
     git checkout better-logging
     cargo build --release
 
-## Install Guide with CLANG build
-
-Step 1: Copy and run the following command
-
-    sudo apt-get update && sudo apt install gcc git && sudo apt install curl && curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && sudo apt install make && mkdir ~/packet && cd ~/packet && git clone https://github.com/cjdelisle/packetcrypt_rs && cd packetcrypt_rs
-
-Step 2: Copy and run the following command
-
-    sudo apt install clang
-
-Step 2.5(Optional). If you were using a gcc build then please copy and run the following command
-
-    cargo clean
-
-Step 3: Copy and run the following command
-
-    CC=clang cargo build --release
-
 ## Mine announcements
 
-* `./target/release/packetcrypt ann <pool url> --paymentaddr <your PKT addr>`
+* `./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr pkt1q0p6s9yzf3506zlkzgrnctujya5zhng3haw96sl`
 
 For more information `./target/release/packetcrypt help ann`
 
