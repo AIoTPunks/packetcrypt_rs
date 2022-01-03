@@ -22,7 +22,7 @@ All of the others can be found in
 ## Install
 First install rust if you haven't, see: [rustup](https://rustup.rs/)
 
-    git clone https://github.com/FrankBuss/packetcrypt_rs
+    git clone https://github.com/AIoTPunks/packetcrypt_rs
     cd packetcrypt_rs
     git checkout better-logging
     cargo build --release
