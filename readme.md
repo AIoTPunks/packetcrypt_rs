@@ -31,8 +31,9 @@ First install rust if you haven't, see: [rustup](https://rustup.rs/)
 
     ./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr       pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
 
-For more information 
-    ./target/release/packetcrypt ann --help
+For more information `./target/release/packetcrypt ann --help`
+    
+    For more information `./target/release/packetcrypt help ann`
 
 ## Run an Announcement Handler
 If you're running a pool, you can use the Rust announcement handler as follows:
