@@ -14,7 +14,19 @@ For beginners here is the command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     
-This line downloads the software package from link in github.
+This command downloads the software package from link in github.
+
+    cd packetcrypt_rs
+
+This command navigates one layer down the directory into the "paketcrypt_rs" directory
+
+    git checkout better-logging
+    
+This command makes available and moves to the "better-logging" branch of the "packetcrypt_rs" code
+
+    cargo build --release
+    
+This command compiles the code
 
 2) [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
