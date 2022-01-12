@@ -39,6 +39,8 @@ Step 2: Enter the following command into your terminal/console.
 
     ./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr       pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
     
+* Ensure that you enter this command from the "packetcrypt_rs" directory.  The "./target/release" part of the command starts in the "packetcrypt_rs" dirctroy and drills down into the "target" directory and then into they "release" directory.
+
 * Announcement mining can be done into a single pool or into multiple pools. You can mine in as many pools as you have the bandwidth to supply.
  When you announcement mine into multiple pools, you will be paid by each pool that you submit annoucements to.  The first pool is the pool running the highest difficulty. If you notice problems, you can test listing the pools in a different order. If a pool is down or malfunctioning you will notice the pool not mining at [100%] with the following color scheme: Green >75%, Yellow 50% - 75%, Red <50%. You can choose to remove the under-performing or malfunctioning pool(s).  
   
