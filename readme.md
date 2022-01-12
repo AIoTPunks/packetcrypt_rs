@@ -1,7 +1,7 @@
 # packetcrypt_rs - Super Good Announcement Mining Output
 
 ## Install
-Step 1: If you haven't already done so, install rust and git.  [rust](https://rustup.rs/) [git](https://github.com/git-guides/install-git)
+Step 1: If you haven't already done so, install rust and git.  [rust](https://rustup.rs/), [git](https://github.com/git-guides/install-git)
 
 Step 2: Enter the following command into your terminal/console.  
 
