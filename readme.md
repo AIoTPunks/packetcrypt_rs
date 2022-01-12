@@ -37,8 +37,9 @@ Step 2: Enter the following command into your terminal/console.
 
 ## Mine Announcements
 
-    ./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in 
-    --paymentaddr       pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
+    ./target/release/packetcrypt ann 
+    http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in 
+    --paymentaddr pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
     
 * Ensure that you enter this command from the "packetcrypt_rs" directory.  The "./target/release" part of the command starts in the "packetcrypt_rs" dirctroy and drills down into the "target" directory and then into they "release" directory.
 
