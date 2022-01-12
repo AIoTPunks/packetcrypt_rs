@@ -10,7 +10,7 @@ Step 2: Enter the following command into your terminal/console.
     git checkout better-logging
     cargo build --release
 
-For beginners here is a command step by step breakdown of the commands:
+For beginners here is a command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     
@@ -28,7 +28,7 @@ This command makes available and moves to the "better-logging" branch of the "pa
     
 This command compiles the code.
 
-The instructions in the link below are important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.  This instructions will guide you though that process.
+*Important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.  This instructions will guide you though that process.
 
 [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
