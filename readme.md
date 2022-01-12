@@ -3,12 +3,15 @@
 ## Install
 Step 1: If you haven't already done so, install rust.  [rustup](https://rustup.rs/)
 
-Step 2: Enter the following command into your terminal/console.
+Step 2: Enter the following command into your terminal/console.  
 
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     cd packetcrypt_rs
     git checkout better-logging
     cargo build --release
+
+Command step by step breakdown:
+    git clone https://github.com/AIoTPunks/packetcrypt_rs
 
 2) [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
