@@ -12,9 +12,11 @@ Step 2: Enter the following command into your terminal/console.
 
 > Here is a command step by step breakdown:
     
+* This command downloads the software package from link in github.
+
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     
-* This command downloads the software package from link in github.
+
 
         cd packetcrypt_rs
 
