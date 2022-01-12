@@ -20,15 +20,14 @@ Step 2: Enter the following command into your terminal/console.
 
         cd packetcrypt_rs
 
-
-
-    git checkout better-logging
-    
 * This command makes available and moves to the "better-logging" branch of the "packetcrypt_rs" code.
 
-    cargo build --release
+        git checkout better-logging
     
 * This command compiles the code.
+
+        cargo build --release
+    
 
 > Important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.  This instructions will guide you though that process.
 
