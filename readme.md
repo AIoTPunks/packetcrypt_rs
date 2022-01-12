@@ -11,7 +11,7 @@ Step 2: Enter the following command into your terminal/console.
     cargo build --release
 
 
-For beginners here is a command step by step breakdown:
+Here is a command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     
@@ -29,7 +29,7 @@ For beginners here is a command step by step breakdown:
     
 >This command compiles the code.
 
-*Important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.  This instructions will guide you though that process.
+* Important if installing on windows.  In order to correctly compile the code you need to install specfic dependencies.  This instructions will guide you though that process.
 
 [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
@@ -38,6 +38,10 @@ For beginners here is a command step by step breakdown:
 ## Mine Announcements
 
     ./target/release/packetcrypt ann http://pool.pktpool.io http://pool.pkt.world http://pool.srizbi.com http://pool.pkteer.com http://pktco.in --paymentaddr       pkt1q4rwkug8yl8k59h6kp5w6k3fqeug97rdfj682g7
+    
+*
+
+
     
 (instead of pkt1xxx, use your wallet address)
 
