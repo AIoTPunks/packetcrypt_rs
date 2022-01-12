@@ -12,7 +12,7 @@ Step 2: Enter the following command into your terminal/console.
 
 > Here is a command step by step breakdown:
     
-* This command downloads the software package from link in github.
+* This command downloads clones a copy of the github repository and installs it on your local machine.  [Further info](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
         git clone https://github.com/AIoTPunks/packetcrypt_rs
     
