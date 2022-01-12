@@ -11,7 +11,7 @@ Step 2: Enter the following command into your terminal/console.
     cargo build --release
 
 
-Here is a command step by step breakdown:
+* Here is a command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     
