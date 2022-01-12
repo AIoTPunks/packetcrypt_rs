@@ -11,6 +11,7 @@ Step 2: Enter the following command into your terminal/console.
     cargo build --release
 
 Command step by step breakdown:
+    
     git clone https://github.com/AIoTPunks/packetcrypt_rs
 
 2) [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
