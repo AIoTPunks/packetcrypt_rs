@@ -1,7 +1,7 @@
 # packetcrypt_rs - Super Good Announcement Mining Output
 
 ## Install
-First install rust if you haven't, see: [rustup](https://rustup.rs/)
+Step 1: If you haven't already done so, install rust.  [rustup](https://rustup.rs/)
 
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     cd packetcrypt_rs
