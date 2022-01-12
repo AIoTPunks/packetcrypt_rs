@@ -10,7 +10,7 @@ Step 2: Enter the following command into your terminal/console.
     git checkout better-logging
     cargo build --release
 
-> Here is a command step by step breakdown:
+> Command step by step breakdown:
     
 * This command clones a copy of the github repository and installs it on your local machine.  [2.1 Git Basics - Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
