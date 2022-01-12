@@ -46,27 +46,3 @@ To mine with visibility to error messages use the -e flag
 (instead of pkt1xxx, use your wallet address)
 
 
-## Run an Announcement Handler
-If you're running a pool, you can use the Rust announcement handler as follows:
-* `./target/release/packetcrypt ah -C /path/to/pool.toml`
-
-See [pool.example.toml](https://github.com/cjdelisle/packetcrypt_rs/blob/master/pool.example.toml)
-for information about what should be in your pool.toml file.
-
-For more information `./target/release/packetcrypt help ah`
-
-## Env vars
-* `RUST_LOG=packetcrypt=debug` for better logging
-* `RUST_BACKTRACE=1` for backtraces on errors (including non-critical ones)
-
-## Memory leak detection
-To run with memory leak detection, build with `cargo build --features leak_detect` and while
-it is running send a SIGUSR1 signal, this will cause it to write out all of it's long lived memory
-to a file.
-
-## Jemalloc
-You may achieve better performance by building with `cargo build --release --features jemalloc`
-
-## License
-
-LGPL-2.1 or LGPL-3.0, at your option
