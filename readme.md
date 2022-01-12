@@ -3,6 +3,8 @@
 ## Install
 Step 1: If you haven't already done so, install rust.  [rustup](https://rustup.rs/)
 
+Step 2: Enter the following command into your terminal/console.
+
     git clone https://github.com/AIoTPunks/packetcrypt_rs
     cd packetcrypt_rs
     git checkout better-logging
