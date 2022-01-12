@@ -10,7 +10,6 @@ Step 2: Enter the following command into your terminal/console.
     git checkout better-logging
     cargo build --release
 
-
 > Here is a command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
