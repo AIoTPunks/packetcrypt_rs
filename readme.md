@@ -10,9 +10,11 @@ Step 2: Enter the following command into your terminal/console.
     git checkout better-logging
     cargo build --release
 
-Command step by step breakdown:
+For beginners here is the command step by step breakdown:
     
     git clone https://github.com/AIoTPunks/packetcrypt_rs
+    
+This line downloads the software package from link in github.
 
 2) [Windows 10 Installation Instructions](https://github.com/cjdelisle/packetcrypt_rs/issues/39#issuecomment-999982652)
 
