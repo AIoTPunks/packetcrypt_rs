@@ -16,7 +16,7 @@ Step 2: Enter the following command into your terminal/console.
     
 * This command downloads the software package from link in github.
 
-    cd packetcrypt_rs
+        cd packetcrypt_rs
 
 * This command navigates one layer down the directory into the "paketcrypt_rs" directory.
 
